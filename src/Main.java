@@ -6,7 +6,8 @@ public class Main {
         car.describCar();
         /*
     car car = new car();
-
+     this test för git till github,
+     This is text 2
     car.describCar();
        // car.barand = "volvo";
         //System.out.println("breand:" + car.getBrand());
